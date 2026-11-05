@@ -1,0 +1,7 @@
+Sample report
+=============
+
+This file is stored on the Laravel server.
+
+The browser Save As example retrieves it through a Laravel GET or POST route
+and writes it to the location selected by the user.
